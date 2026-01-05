@@ -1,6 +1,0 @@
-# NAME: Grok
-# REPO: https://raw.githubusercontent.com/Accademia/Additional_Rule_For_Clash/refs/heads/main/Grok/Grok.yaml
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,xai.chronosphere.io
-IP-CIDR,17.253.4.125/32,no-resolve
